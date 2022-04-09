@@ -141,7 +141,7 @@ npm start
 ## Frontend and backend links:
 ### Frontend:
 ```
-http://http://34.135.0.129:3000/
+http://34.135.0.129:3000/
 ```
 ### Backend:
 ```
