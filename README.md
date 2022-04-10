@@ -147,5 +147,4 @@ http://34.135.0.129:3000/
 ```
 https://us-central1-keen-inscriber-345701.cloudfunctions.net/python-flask-calc?operation=div&data1=3&data2=2
 https://us-central1-keen-inscriber-345701.cloudfunctions.net/flask-calc-pubsub
-topic_name=flask-calc-pubsub-topic
 ```
