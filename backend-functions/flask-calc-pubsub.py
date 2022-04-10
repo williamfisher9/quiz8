@@ -18,7 +18,7 @@ def flask_calc_pubsub(request):
 
     print(f"Function triggered and message was received")
 
-    topic_name = 'flask-calc-pubsub-topic'
+    topic_name = 'food-order-topic'
     PROJECT_ID =  'keen-inscriber-345701'
     message = request.args.get("message")
 
